@@ -1,0 +1,26 @@
+# Hi there 👋 I’m Mohammad Saeid Heidari
+
+I’m currently Data Analysis in the Process Engineering Studies Center, University of Tehran.  and I’m Master's Student in Data Mining at Shahid Beheshti University.
+#
+My research interests are mainly in:
+
+-  Natural language processing (NLP)
+- Fuzzy deep learning
+- Deep reinforcement learning in recommender systems
+- Self supervise learning 
+- new approaches to data-efficient machine learning.
+
+<!--
+**ms-heidari/ms-heidari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
